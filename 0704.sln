@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 15 for Windows Desktop
-VisualStudioVersion = 15.0.28307.1525
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31910.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0704", "0704\0704.csproj", "{E11E9F9D-9898-4946-938E-EF140CC26343}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02", "ex02\ex02.csproj", "{04B2B02D-6DD0-4980-BB3F-137E3C2C16CB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03", "ex03\ex03.csproj", "{6872A8F0-65FF-403A-8186-90277F9C93AE}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E11E9F9D-9898-4946-938E-EF140CC26343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E11E9F9D-9898-4946-938E-EF140CC26343}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E11E9F9D-9898-4946-938E-EF140CC26343}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E11E9F9D-9898-4946-938E-EF140CC26343}.Release|Any CPU.Build.0 = Release|Any CPU
 		{04B2B02D-6DD0-4980-BB3F-137E3C2C16CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{04B2B02D-6DD0-4980-BB3F-137E3C2C16CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B2B02D-6DD0-4980-BB3F-137E3C2C16CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
