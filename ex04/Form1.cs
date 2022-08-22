@@ -10,7 +10,7 @@ namespace ex04
 {
     public partial class Form1 : Form
     {
-        private const string URL = "https://jl4j3d7n2b76pjbt6lo37vb43m0umuxc.lambda-url.ap-northeast-1.on.aws/";
+        private const string URL = "https://4ilkk37fpnkznxh7q6xwteryru0opbnf.lambda-url.ap-northeast-1.on.aws/";
         private readonly List<WebRequest> requests = new List<WebRequest>();
 
         public Form1()
