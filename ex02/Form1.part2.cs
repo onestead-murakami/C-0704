@@ -5,9 +5,9 @@ using System.Windows.Forms;
 
 namespace ex02
 {
-    public partial class Form1 : Form
+    public partial class Form1Part2 : Form
     {
-        public Form1()
+        public Form1Part2()
         {
             InitializeComponent();
         }
